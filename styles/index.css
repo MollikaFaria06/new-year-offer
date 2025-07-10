@@ -227,4 +227,29 @@ strong{
 
 .awesome{
     margin-left: 110px;
+    margin-top: 0px;
+}
+
+.subscribe{
+    background-color: #f2cbb0;
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin: 110px;
+}
+
+.btn-primary{
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    padding: 0px 0px;
+    border-radius: 1%;
+    border: none; 
+    margin: 0px;
+    text-align: center;
+    
+}
+.email{
+    font-size: 30px;
 }
