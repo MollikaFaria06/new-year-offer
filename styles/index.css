@@ -146,7 +146,10 @@ strong{
 .offer{
     border-radius: 10px;
     text-align: center;
-    margin: 110px;
+    margin-top: 110px;
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-bottom: 0px;
     display: flex;
 }
 .h4{
@@ -156,7 +159,7 @@ strong{
     color: black;
     font-weight: bold;
 }
-.h5{
+.h5, .h6{
     color: rgba(70, 68, 68, 0.879);
 }
 .h24{
@@ -181,4 +184,47 @@ strong{
     width: 250px;
     height: 250px;
     
+}
+
+.holiday{
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 140px;
+    margin-bottom: 120px;
+    margin-right: 140px;
+    display: inline-block;
+    padding: 10%;
+}
+.img-mix{
+    margin-left: 0px;
+    align-items: center;       
+    
+}
+/*
+.main-img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.sub-img {
+    position: absolute;  
+    top: 20px;           
+    left: 20px;        
+    width: 100px;      
+    height: auto;
+}
+.cir-img{
+    position: absolute;
+    top: 10px;       
+    right: 10px;      
+    width: 80px;   
+    height: 80px;
+    border-radius: 50%;  
+    object-fit: cover; 
+}
+ */
+
+.awesome{
+    margin-left: 110px;
 }
