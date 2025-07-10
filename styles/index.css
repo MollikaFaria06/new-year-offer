@@ -256,7 +256,10 @@ strong{
 
 footer{
     background-color: rgb(7, 3, 41);
-    margin: 110px;
+    margin-left: 110px;
+    margin-right: 110px;
+    margin-top: 110px;
+    margin-bottom: 0px;
     
 }
 .h52{
