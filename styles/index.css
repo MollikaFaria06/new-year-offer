@@ -121,3 +121,64 @@
     font-size: 26px;
     font-weight: bolder;
 }
+.venue{
+    background-color: #f2cbb0;
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin: 110px;
+
+
+}
+strong{
+    color: red;
+}
+
+
+.text-4{
+    font-size: 20px;
+    background-color: rgb(204, 6, 6);
+    color: azure;
+    font-weight: bolder;
+    border-radius: 6%;
+}
+
+.offer{
+    border-radius: 10px;
+    text-align: center;
+    margin: 110px;
+    display: flex;
+}
+.h4{
+    color: red;
+}
+.h2{
+    color: black;
+    font-weight: bold;
+}
+.h5{
+    color: rgba(70, 68, 68, 0.879);
+}
+.h24{
+    color: red;
+    font-weight: bold;
+}
+
+.wrapper{
+    width: 270px;
+    height: 270px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.ellipse{
+    border-radius: 50%;
+    border: 10px solid red;
+    object-fit: cover;
+    width: 250px;
+    height: 250px;
+    
+}
