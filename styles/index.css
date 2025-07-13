@@ -195,12 +195,37 @@ strong{
     margin-right: 140px;
     display: inline-block;
     padding: 10%;
+
 }
+.img-mix{
+    position: relative;
+}
+.sub-img{
+    position: absolute;
+    top: 200px;
+    max-width: 500px;
+    left: 4px;
+}
+.main-img{
+    margin-top: 500px;
+    max-width: 900px;
+    height: 150px;
+}
+
+.cir-img{
+    position: absolute;
+    top: 3100px;
+    left: 920px;
+    max-width: 220px;
+}
+
+/*
 .img-mix{
     margin-left: 0px;
     align-items: center;       
     
 }
+*/
 /*
 .main-img {
     width: 100%;
@@ -254,7 +279,7 @@ strong{
     font-size: 37px;
 }
 
-footer{
+.footer{
     background-color: rgb(7, 3, 41);
     margin-left: 110px;
     margin-right: 110px;
